@@ -2,3 +2,7 @@
 console.log("Hello World");
 
 console.log("bye World"); //second time
+
+function main() {
+  return null;
+}
